@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FunWithFlagMVP</string>
+    <string name="splash">Fun with flag MVP</string>
+
+
+    <string name="transition_country">trans_country</string>
+    <string name="transition_country_txt">trans_country_txt</string>
+    <string name="trans_country">trans_country</string>
+    <string name="trans_country_txt">trans_country_txt</string>
+
+    <string name="please_wait">Please wait...</string>
+    <string name="please_wait_country">Please wait,\ndownloading list of country.</string>
+    <string name="please_wait_info">Please wait,\nfetching information.</string>
+    <string name="no_internet_1">Oh no!</string>
+    <string name="no_internet_2">No internet found. Check your\n connection or try again.</string>
+    <string name="btn_retry">Retry</string>
+    <string name="title_search">Search</string>
+
+    <string name="dummy_country_name">country Name</string>
+    <string name="dummy_country_details">country Details</string>
+
+    <string name="OK">Ok</string>
+    <string name="transition_country_detail">transition_country_detail</string>
+    <string name="txt_release_date">Release Date</string>
+    <string name="txt_coll_price">Collection Price</string>
+    <string name="txt_artist_info">View Artist</string>
+    <string name="genre">Genre</string>
+    <string name="txt_coll_name">Collection Name</string>
+    <string name="dummy_country_capital">Country Capital</string>
+</resources>
